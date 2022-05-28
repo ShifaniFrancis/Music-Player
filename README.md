@@ -16,10 +16,10 @@ INSTRUCTIONS TO RUN THE APPLICATION:
 
 •	Open phpMyAdmin (http://localhost/phpmyadmin/) on your browser and import the ‘musicapp’ database on your localhost using the ‘musicapp.sql’ file in the extracted folder 
 
-![image](https://user-images.githubusercontent.com/94130152/170819557-50759afa-5d73-470c-b487-72890a360f6a.png)
-
 •	Now you are all set to run the application. Just enter localhost/[folder name used inside htdocs]/index.php  on your browser.
- You can now run the application on your browser.
+ You can now run the application on your browser. 
+ 
+![image](https://user-images.githubusercontent.com/94130152/170833132-da047e77-d324-4089-9b69-41094961e7a8.png)
 
 Login Credentials:
 
