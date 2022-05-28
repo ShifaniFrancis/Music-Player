@@ -19,7 +19,7 @@ INSTRUCTIONS TO RUN THE APPLICATION:
 
 ![image](https://user-images.githubusercontent.com/94130152/170819557-50759afa-5d73-470c-b487-72890a360f6a.png)
 
-•	Now you are all set to run the application. Just enter localhost/[folder name used inside htdocs]/login.php  on your browser.
+•	Now you are all set to run the application. Just enter localhost/[folder name used inside htdocs]/index.php  on your browser.
  You can now run the application on your browser.
 
 Login Credentials:
